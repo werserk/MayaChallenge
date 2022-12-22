@@ -40,9 +40,6 @@ optimizers:
 - SGD
 - Adam (best)
 
-I was training on Google Colab with GPU "Tesla T4".
-![colab_image](https://colab.research.google.com/assets/colab-badge.svg)
-
 ## Results
 
 I have reached these metrics and 9th place in the competition.
