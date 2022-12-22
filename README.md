@@ -2,14 +2,8 @@
 
 <img src=".images/MayaChallangeMainPage.png">
 
-## Summary
-
-[MayaChallenge](https://biasvariancelabs.github.io/maya_challenge/) is my first Deep Learning competition.
-
-Task is semantic segmentation of satellite images.
-
 ## Competition overview
-
+Task is semantic segmentation of Maya building on satellite images.
 The dataset consists of tiles derived from of Sentinel-1, Sentinel-2, and ALS (lidar) data, and associated annotation
 masks. Each tile measures 240 x 240 meters and has spatial resolution of 10 meters for Sentinel data and 0.5 meters for
 ALS data. The Sentinel-1 and Sentinel-2 data for each tile is stored separately in multi-band TIFF files (see data
