@@ -9,11 +9,9 @@ masks. Each tile measures 240 x 240 meters and has spatial resolution of 10 mete
 ALS data. The Sentinel-1 and Sentinel-2 data for each tile is stored separately in multi-band TIFF files (see data
 structure).
 
-<p float="left">
-  <img src=".images/tile_44_mask_aguada.png" width="100" />
-  <img src=".images/tile_44_mask_building.png" width="100" /> 
-  <img src=".images/tile_44_mask_platform.png" width="100" />
-</p>
+| aguadas | platforms | buildings |
+| :-----: | :-------: | :-------: |
+| ![](.images/tile_44_mask_aguada.png) | ![](.images/tile_44_mask_platform.png) | ![](.images/tile_44_mask_building.png) |
 
 ## Methods
 
